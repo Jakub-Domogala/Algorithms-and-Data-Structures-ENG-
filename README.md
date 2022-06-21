@@ -5,4 +5,4 @@ Descriptions of tasks in Polish
 
 Implemented in Python
 
-## Currently in Progress
+## Currently in Progress...
