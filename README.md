@@ -4,3 +4,5 @@ Repository with wide variety of algorythmic tasks implemented while learning to 
 Descriptions of tasks in Polish
 
 Implemented in Python
+
+## Currently in Progress
