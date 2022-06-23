@@ -14,7 +14,7 @@ n - długość listy wejściowej
 c - stała
 '''
 
-
+#-----------------------------------------------------------------------------------------------------------------------
 def t_anagram(string1, string2, distance):
     A = [[None] for _ in range(26)]
     B = [1] * 26
@@ -27,6 +27,7 @@ def t_anagram(string1, string2, distance):
             return False
         B[ord(string2[i]) - 97] += 1
     return True
+#-----------------------------------------------------------------------------------------------------------------------
 
 
 a = "kotomysz"
