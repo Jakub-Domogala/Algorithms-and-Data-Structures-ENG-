@@ -14,7 +14,7 @@ def example():
 .
 #---------------------------
 ```
-### Rest of the code are usually driver functions
+### Rest of the code is usually driver
 ***
 
 ## In ALL_TASKS folder you can find codes from all categories
