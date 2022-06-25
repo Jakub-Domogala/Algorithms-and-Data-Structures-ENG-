@@ -2,6 +2,7 @@
 # Memory complexity     = O(n + k)
 # n - number of elements
 # k - span of elements
+# k is usually so small that we can call computing complexity linear - O(n)
 # Unstable 
 
 from random import randint
